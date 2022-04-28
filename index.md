@@ -1,6 +1,7 @@
 ## 水边
 
-You can use the [editor on GitHub](https://github.com/RiverinBian/besidetheriver.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+黑槽战士
+怎么说不让我打中文？
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
